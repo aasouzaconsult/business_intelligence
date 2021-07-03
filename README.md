@@ -6,6 +6,7 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 - [ETL](https://blogdozouza.wordpress.com/bi/etl/) (*Extract Transform Load*)
 - [Modelagem Multidimensional](https://blogdozouza.wordpress.com/2019/11/08/modelagem-dimensional/)
 - [Power BI](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/)
+  - Apresentação sobre Dados, Modelagem Dimensional, Ferramentas, Power BI e Ciência de Dados ([Youtube](https://www.youtube.com/watch?v=BgaZ7TrpWsk))
   - Power BI Desktop ([download](https://www.microsoft.com/pt-br/download/details.aspx?id=58494))
   - [Licença](https://blogdozouza.wordpress.com/2020/03/04/licenciamento-do-power-bi/) 
   - Exemplos
