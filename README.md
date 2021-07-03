@@ -11,6 +11,7 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 - [Power BI](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/)
   - Apresentação sobre Dados, Modelagem Dimensional, Ferramentas, Power BI e Ciência de Dados ([Youtube](https://www.youtube.com/watch?v=BgaZ7TrpWsk))
   - [Licença](https://blogdozouza.wordpress.com/2020/03/04/licenciamento-do-power-bi/) 
+  - [Dicas rápidas](https://www.instagram.com/alexsouzamsc/) (BI e Machine Learning)
   - Exemplos
     - [Coronavirus](https://app.powerbi.com/view?r=eyJrIjoiOGY3ZWYxNmQtNWY4OC00NGEwLTlhYTUtMDQ2NDZjMjJhOWI1IiwidCI6IjBjNzE1Yjc3LTNmNjktNDY2NC05NmM0LWI0Yjc2MTI0OTk1YSJ9)
     - [Censo Escolar 2020](https://app.powerbi.com/view?r=eyJrIjoiODJmNGY3YzctNGRhOC00MWMwLWI0YWQtNDE2NWViMzc0ZmNhIiwidCI6Ijc5YmY2Y2FlLWMwZWEtNGMzOS04ODgzLWVkNzIzY2Y1NTQ5MiJ9)
