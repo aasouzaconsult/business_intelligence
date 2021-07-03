@@ -5,16 +5,14 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 Dicas
 - [ETL](https://blogdozouza.wordpress.com/bi/etl/) (*Extract Transform Load*)
 - [Modelagem Multidimensional](https://blogdozouza.wordpress.com/2019/11/08/modelagem-dimensional/)
-- Visualização de Dados
-  - [Power BI](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/)
-    - Power BI Desktop (download)
-    - Licença
-    - Exemplos
-     - [Coronavirus](https://app.powerbi.com/view?r=eyJrIjoiOGY3ZWYxNmQtNWY4OC00NGEwLTlhYTUtMDQ2NDZjMjJhOWI1IiwidCI6IjBjNzE1Yjc3LTNmNjktNDY2NC05NmM0LWI0Yjc2MTI0OTk1YSJ9)
-     - [Censo Escolar 2020](https://app.powerbi.com/view?r=eyJrIjoiODJmNGY3YzctNGRhOC00MWMwLWI0YWQtNDE2NWViMzc0ZmNhIiwidCI6Ijc5YmY2Y2FlLWMwZWEtNGMzOS04ODgzLWVkNzIzY2Y1NTQ5MiJ9)
-      - [Análise Exploratória de Dados](https://blogdozouza.wordpress.com/2021/03/28/censo-escolar-analise-exploratoria-de-dados-aed/)
-  - [Tableau](https://blogdozouza.wordpress.com/bi/tableau/)
-  - ...
+- [Power BI](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/)
+  - Power BI Desktop (download)
+  - Licença
+  - Exemplos
+   - [Coronavirus](https://app.powerbi.com/view?r=eyJrIjoiOGY3ZWYxNmQtNWY4OC00NGEwLTlhYTUtMDQ2NDZjMjJhOWI1IiwidCI6IjBjNzE1Yjc3LTNmNjktNDY2NC05NmM0LWI0Yjc2MTI0OTk1YSJ9)
+   - [Censo Escolar 2020](https://app.powerbi.com/view?r=eyJrIjoiODJmNGY3YzctNGRhOC00MWMwLWI0YWQtNDE2NWViMzc0ZmNhIiwidCI6Ijc5YmY2Y2FlLWMwZWEtNGMzOS04ODgzLWVkNzIzY2Y1NTQ5MiJ9)
+   - [Análise Exploratória de Dados](https://blogdozouza.wordpress.com/2021/03/28/censo-escolar-analise-exploratoria-de-dados-aed/)
+- [Tableau](https://blogdozouza.wordpress.com/bi/tableau/)
 - Lakehouse ([mais...](https://github.com/aasouzaconsult/lakehouse))
 
 Alex Souza
