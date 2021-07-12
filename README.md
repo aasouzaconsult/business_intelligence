@@ -24,7 +24,7 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 - Censo Escolar 2020
   - base de dados ([download](https://github.com/aasouzaconsult/business_intelligence/blob/main/Censo2020_inep.csv))
   - Power BI Desktop ([download](https://www.microsoft.com/pt-br/download/details.aspx?id=58494))
-  - Exemplo realizado... ([download](https://github.com/aasouzaconsult/business_intelligence/blob/main/PowerBI.pbix))
+  - Exemplo de visualização utilizando a base de dados... ([download](https://github.com/aasouzaconsult/business_intelligence/blob/main/PowerBI.pbix))
 
 -----------
 **Alex Souza**
