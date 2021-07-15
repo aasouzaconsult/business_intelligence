@@ -30,3 +30,4 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 - [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
 - [Blog](https://blogdozouza.wordpress.com/)
 - [Linkedin](https://www.linkedin.com/in/alex-souza/)
+- [Instagram](https://www.instagram.com/alexsouzamsc/)
