@@ -1,11 +1,13 @@
 # Business Intelligence
 
-O termo Business Intelligence (BI), inteligência de negócios, refere-se ao processo de coleta, organização, análise, compartilhamento e monitoramento de informações que oferecem suporte a gestão de negócios. É o conjunto de teorias, metodologias, processos, estruturas e tecnologias que transformam uma grande quantidade de dados brutos em informação útil para tomadas de decisões estratégicas. ([mais...](https://blogdozouza.wordpress.com/bi/))
+O termo Business Intelligence (BI), inteligência de negócios, refere-se ao processo de coleta, organização, análise, compartilhamento e monitoramento de informações que oferecem suporte a gestão de negócios. É o conjunto de teorias, metodologias, processos, estruturas e tecnologias que transformam uma grande quantidade de dados brutos em informação útil para tomadas de decisões estratégicas. ([mais...](https://medium.com/blog-do-zouza/deepening-into-data-warehouse-2900f49faa2))
 
 -----------
 **Dicas**
+- [Análise de Dados](https://medium.com/blog-do-zouza/data-analysis-27a0a3a310a1)
+- [Cultura de Dados](https://medium.com/blog-do-zouza/data-driven-organizations-concept-tips-and-a-short-guide-44070f5eed25)
 - [ETL](https://blogdozouza.wordpress.com/bi/etl/) (*Extract Transform Load*)
-- [Modelagem Multidimensional](https://blogdozouza.wordpress.com/2019/11/08/modelagem-dimensional/)
+- [Modelagem Multidimensional](https://medium.com/blog-do-zouza/deepening-into-data-warehouse-2900f49faa2)
 - [Power BI](https://blogdozouza.wordpress.com/bi/microsoft/power-bi/)
   - Apresentação sobre Dados, Modelagem Dimensional, Ferramentas, Power BI e Ciência de Dados ([Youtube](https://www.youtube.com/watch?v=BgaZ7TrpWsk))
   - [Licença](https://blogdozouza.wordpress.com/2020/03/04/licenciamento-do-power-bi/) 
@@ -25,10 +27,12 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
   - Arquivo do Power BI (.pbix) ([download](https://github.com/aasouzaconsult/business_intelligence/blob/main/PowerBI.pbix))
   - Link Público do case ([download](https://app.powerbi.com/view?r=eyJrIjoiOGVlMzVhMTEtMjdiZi00NjM3LThkOWQtYzRhYTBhZWIwYmYxIiwidCI6Ijc5YmY2Y2FlLWMwZWEtNGMzOS04ODgzLWVkNzIzY2Y1NTQ5MiJ9))
 
+-----------
 **Estudo de Caso - sales.z** 
 A Empresa sales.z, gostaria de começar a controlar suas vendas e nos contratou para montarmos um Data Warehouse! A empresa nos forneceu uma amostra do seu banco de dados ERP (assim como a modelagem - [estão disponibilizados aqui...](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/tree/main/sales.z)).
 
 ***Modelagem Multidimensional + Data Warehouse***
+
 Com base nesse banco de dados mencionado acima, precisamos montar uma Proposta de Diagrama do Modelo Dimensional, assim como a estrutura do Data Warehouse, com os dados do banco de amostra e apresentar a Proposta.
 
 - Formas de fazer (sugestões):
@@ -38,6 +42,7 @@ Com base nesse banco de dados mencionado acima, precisamos montar uma Proposta d
   - Com base no banco de dados ERP de amostra que o cliente enviou, montar as tabelas do DW e através de ferramentas, fazer a engenharia reversa para pegar a Modelagem dimensional.*
  
 ***Dashboards e Relatórios***
+
 Com base nos dados acima (DW), nos pediram para criarmos Dashboards e algumas análises, tais como Análises de Produtos, Clientes, Previsão de Vendas, e algo para Mobile, que serão detalhados a seguir.
 - ***Dashboard de Vendas***
   - Quantidade e Valor total de Vendas (Cartões)
@@ -58,7 +63,7 @@ Com base nos dados acima (DW), nos pediram para criarmos Dashboards e algumas an
   - Valor de Vendas por Cliente
   - Mapa com informações sobre Clientes
 
-Dicas e pontos avaliados pela data.z consultoria
+*Dicas e pontos avaliados pela **data.z consultoria***
 - Criação de:
   - Métricas
   - Drill Down
