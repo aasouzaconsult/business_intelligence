@@ -3,7 +3,7 @@
 O termo Business Intelligence (BI), inteligência de negócios, refere-se ao processo de coleta, organização, análise, compartilhamento e monitoramento de informações que oferecem suporte a gestão de negócios. É o conjunto de teorias, metodologias, processos, estruturas e tecnologias que transformam uma grande quantidade de dados brutos em informação útil para tomadas de decisões estratégicas. ([mais...](https://medium.com/blog-do-zouza/deepening-into-data-warehouse-2900f49faa2))
 
 -----------
-#Dicas
+# Dicas
 - [Análise de Dados](https://medium.com/blog-do-zouza/data-analysis-27a0a3a310a1)
 - [Cultura de Dados](https://medium.com/blog-do-zouza/data-driven-organizations-concept-tips-and-a-short-guide-44070f5eed25)
 - [ETL](https://blogdozouza.wordpress.com/bi/etl/) (*Extract Transform Load*)
@@ -21,7 +21,7 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
 
 -----------
 
-#Case de Estudo
+# Case de Estudo
 - Censo Escolar 2020
   - Base de dados ([download](https://github.com/aasouzaconsult/business_intelligence/blob/main/Censo2020_inep.csv))
   - Power BI Desktop ([download](https://www.microsoft.com/pt-br/download/details.aspx?id=58494))
