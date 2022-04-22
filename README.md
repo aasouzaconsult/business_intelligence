@@ -98,4 +98,3 @@ Aqui, a *sales.z* precisará da relação de seus vendedores e seus respectivos 
 
 ------
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
-
