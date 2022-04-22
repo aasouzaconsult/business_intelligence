@@ -28,9 +28,11 @@ O termo Business Intelligence (BI), inteligência de negócios, refere-se ao pro
   - Link Público do case ([download](https://app.powerbi.com/view?r=eyJrIjoiOGVlMzVhMTEtMjdiZi00NjM3LThkOWQtYzRhYTBhZWIwYmYxIiwidCI6Ijc5YmY2Y2FlLWMwZWEtNGMzOS04ODgzLWVkNzIzY2Y1NTQ5MiJ9))
 
 -----------
-**Estudo de Caso - sales.z** 
+**Estudo de Caso - sales.z**
+
 A Empresa sales.z, gostaria de começar a controlar suas vendas e nos contratou para montarmos um Data Warehouse! A empresa nos forneceu uma amostra do seu banco de dados ERP (assim como a modelagem - [estão disponibilizados aqui...](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/tree/main/sales.z)).
 
+-----------
 ***Modelagem Multidimensional + Data Warehouse***
 
 Com base nesse banco de dados mencionado acima, precisamos montar uma Proposta de Diagrama do Modelo Dimensional, assim como a estrutura do Data Warehouse, com os dados do banco de amostra e apresentar a Proposta.
@@ -41,6 +43,7 @@ Com base nesse banco de dados mencionado acima, precisamos montar uma Proposta d
   - Modelagem Multidimensional com base na Modelagem Relacional Disponibilizada + Geração de Script automática (via ferramentas) + alimentação destas Tabelas do DW com base na amostra no banco relacional
   - Com base no banco de dados ERP de amostra que o cliente enviou, montar as tabelas do DW e através de ferramentas, fazer a engenharia reversa para pegar a Modelagem dimensional.*
  
+-----------
 ***Dashboards e Relatórios***
 
 Com base nos dados acima (DW), nos pediram para criarmos Dashboards e algumas análises, tais como Análises de Produtos, Clientes, Previsão de Vendas, e algo para Mobile, que serão detalhados a seguir.
@@ -63,6 +66,7 @@ Com base nos dados acima (DW), nos pediram para criarmos Dashboards e algumas an
   - Valor de Vendas por Cliente
   - Mapa com informações sobre Clientes
 
+-----------
 *Dicas e pontos avaliados pela **data.z consultoria***
 - Criação de:
   - Métricas
