@@ -6,7 +6,7 @@ A causa raiz dessa lentidão foi identificada: a tabela `tbestoque` era a origem
 
 Se depararam com um verdadeiro desafio. Os relatórios e dashboards que deveriam fornecer informações rápidas e precisas aos gestores estavam demorando uma eternidade para serem carregados. A equipe sentia que estavam perdendo batalhas importantes no mundo competitivo dos negócios.
 
-Determinados a superar esse obstáculo e alcançar um novo patamar de excelência, a diretoria da Empresa Z decidiu buscar uma consultoria especializada em análise de dados. Eles estão em busca de profissionais capacitados que possam ajudá-los a reverter essa situação, propor insights estratégicos e implementar soluções eficientes. A diretoria está comprometida em investir nos recursos necessários para transformar os desafios atuais em oportunidades de crescimento e sucesso.
+**Determinados a superar esse obstáculo e alcançar um novo patamar de excelência, a diretoria da Empresa Z decidiu buscar uma consultoria especializada em análise de dados. Eles estão em busca de profissionais capacitados que possam ajudá-los a reverter essa situação, propor *insights* estratégicos e implementar soluções eficientes. A diretoria está comprometida em investir nos recursos necessários para transformar os desafios atuais em oportunidades de crescimento e sucesso.**
 
 ## Base de dados (backup)
 - [Download](https://github.com/aasouzaconsult/business_intelligence/blob/main/Case%20Estudo%20-%20Estoque/bd_estoque.sql)
