@@ -8,7 +8,7 @@ Se depararam com um verdadeiro desafio. Os relatórios e dashboards que deveriam
 
 Determinados a superar esse obstáculo e alcançar um novo patamar de excelência, a diretoria da Empresa Z decidiu buscar uma consultoria especializada em análise de dados. Eles estão em busca de profissionais capacitados que possam ajudá-los a reverter essa situação, propor insights estratégicos e implementar soluções eficientes. A diretoria está comprometida em investir nos recursos necessários para transformar os desafios atuais em oportunidades de crescimento e sucesso.
 
-Abaixo o caminho com a base de dados do cliente.
+## Base de dados (backup)
 - [Download](https://github.com/aasouzaconsult/business_intelligence/blob/main/Case%20Estudo%20-%20Estoque/bd_estoque.sql)
 
 ## Estrutura da Tabela
