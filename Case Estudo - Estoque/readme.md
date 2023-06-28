@@ -32,4 +32,3 @@ CREATE TABLE tbestoque (
    data_estoque DATE
 );
 ```
-ss
