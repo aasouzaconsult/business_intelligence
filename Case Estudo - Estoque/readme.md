@@ -1,4 +1,4 @@
-# História: A Odisseia da Empresa Z em busca de Análises Otimizadas
+# A Odisseia da Empresa Z em busca de Análises Otimizadas
 
 Era uma vez, em uma empresa chamada Z, que vivia no mundo dos negócios, enfrentava uma grande adversidade: problemas de lentidão em seus relatórios e dashboards. Os analistas de dados da Empresa Z lutavam para realizar análises eficientes e obter insights valiosos a partir dos dados. 
 
