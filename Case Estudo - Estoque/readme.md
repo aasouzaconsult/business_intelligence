@@ -10,6 +10,7 @@ Se depararam com um verdadeiro desafio. Os relatórios e dashboards que deveriam
 
 ## Base de dados (backup)
 - [Download](https://github.com/aasouzaconsult/business_intelligence/blob/main/Case%20Estudo%20-%20Estoque/bd_estoque.sql)
+- [Download - csv]()
 
 ## Estrutura da Tabela
 
