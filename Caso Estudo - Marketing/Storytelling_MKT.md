@@ -8,7 +8,7 @@ Alex Souza e sua equipe começaram criando um novo banco de dados, que chamaram 
 ## Fase 2: Projetando as Tabelas
 "Para começar", disse Alex Souza, "precisamos criar a tabela clientes. Vamos incluir campos como `id_cliente`, `nome`, `email`, `telefone` e `data_nascimento`." Cada membro da equipe contribuiu com ideias para garantir que a tabela atendesse às necessidades da empresa.
 
-Mas a equipe sabia que uma única tabela não seria suficiente. Eles precisavam rastrear as compras de cada cliente. Então, decidiram criar outra tabela chamada compras. Essa tabela teria campos como `id_compra`, `id_cliente`, `produto`, `valor` e `data_compra`. Agora eles estavam preparados para armazenar as informações necessárias.
+Mas a equipe sabia que uma única tabela não seria suficiente. Eles precisavam rastrear as compras de cada cliente. Então, decidiram criar outra tabela chamada compras. Essa tabela teria campos como `id_compra`, `id_cliente`, `produto` (descrição do produto), `valor` e `data_compra`. Agora eles estavam preparados para armazenar as informações necessárias.
 
 **Não esquecer de Criar a modelagem conceitual e lógica.**
 
