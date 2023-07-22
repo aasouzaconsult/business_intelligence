@@ -13,19 +13,19 @@ Mas a equipe sabia que uma única tabela não seria suficiente. Eles precisavam 
 **Não esquecer de Criar a modelagem conceitual e lógica.**
 
 ## Fase 3: Inserindo os Dados
-Com as tabelas criadas, era hora de inserir os dados de exemplo. Alex Souza e sua equipe criaram 5 registros de clientes, adicionando seus nomes, e-mails, telefones e datas de nascimento. Eles deram vida a esses clientes fictícios com informações detalhadas.
+Com as tabelas criadas, era hora de inserir os dados de exemplo. Alex Souza e sua equipe criaram **5 registros de clientes**, adicionando seus nomes, e-mails, telefones e datas de nascimento. Eles deram vida a esses clientes fictícios com informações detalhadas.
 
-Mas o trabalho não parou por aí. A equipe queria enriquecer o banco de dados com compras aleatórias. Eles escreveram uma consulta SQL para criar 15 registros de compras com valores variados, relacionando-os aos clientes existentes. Agora o banco de marketing estava repleto de informações valiosas!
+Mas o trabalho não parou por aí. A equipe queria enriquecer o banco de dados com compras aleatórias. Eles escreveram uma consulta SQL para criar **15 registros** de compras com valores variados, relacionando-os aos clientes existentes. Agora o banco de marketing estava repleto de informações valiosas!
 
 ## Fase 4: Explorando os Dados
-Alex Souza e sua equipe ficaram animados para explorar o que haviam criado. Eles começaram com consultas simples, obtendo os nomes e e-mails de todos os clientes. Em seguida, descobriram quais produtos cada cliente havia comprado e calcularam o valor total gasto por alguns clientes específicos.
+Alex Souza e sua equipe ficaram animados para explorar o que haviam criado. Eles começaram com consultas simples, *obtendo os nomes e e-mails de todos os clientes*. Em seguida, descobriram *quais produtos cada cliente havia comprado e calcularam o valor total gasto por alguns clientes específicos*.
 
-Também encontraram um jeito de viajar no tempo! Com uma consulta mágica, descobriram quais clientes haviam feito compras em um dia específico, trazendo informações úteis para analisar a eficácia de suas campanhas ao longo do tempo.
+Também encontraram um jeito de viajar no tempo! Com uma consulta mágica, descobriram quais clientes haviam feito compras em *um dia específico*, trazendo informações úteis para analisar a eficácia de suas campanhas ao longo do tempo.
 
 ## Fase 5: Exportando Resultados
-A equipe da **MKT Wizards** exportou as duas tabelas para um arquivo .csv, pois iriam fazer um teste com o Pentaho
+A equipe da **MKT Wizards** exportou as duas tabelas para um arquivo `.csv`, pois iriam fazer um teste com o **Pentaho**.
 
 ## Fase 6: No Pentaho
-Montar uma Modelagem Dimensional e exportar as 2 tabelas para 2 arquivos .xlsx
+Montar uma **Modelagem Dimensional** e exportar as 2 tabelas para `2 arquivos .xlsx`.
 
 ## Bons estudos!
