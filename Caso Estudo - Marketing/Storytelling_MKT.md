@@ -23,9 +23,9 @@ Alex Souza e sua equipe ficaram animados para explorar o que haviam criado. Eles
 Também encontraram um jeito de viajar no tempo! Com uma consulta mágica, descobriram quais clientes haviam feito compras em *um dia específico*, trazendo informações úteis para analisar a eficácia de suas campanhas ao longo do tempo.
 
 ## Fase 5: Exportando Resultados
-A equipe da **MKT Wizards** exportou as duas tabelas para um arquivo `.csv`, pois iriam fazer um teste com o **Pentaho**.
+A equipe da **MKT Wizards** exportou as duas tabelas para um arquivo `.csv` (outros conectaram direto no bd), pois iriam fazer um teste com o **Pentaho**.
 
 ## Fase 6: No Pentaho
-Montar uma **Modelagem Dimensional** e exportar as 2 tabelas para `2 arquivos .xlsx`.
+Montar uma **Modelagem Dimensional** e exportar as 3 tabelas para `3 arquivos .xlsx`.
 
 ## Bons estudos!
