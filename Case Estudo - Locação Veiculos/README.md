@@ -1,9 +1,9 @@
-# Locação de Veiculos
+# Locação de Veículos
 
 Você, como analista de dados recebeu a missão de criar uma [POC](https://blog.ploomes.com/poc/) de um Data Warehouse para uma Locadora de Veículos.
 
 ## Dados de amostra enviados pelo cliente
-- [Dados]()
+- [Dados](https://github.com/aasouzaconsult/business_intelligence/blob/main/Case%20Estudo%20-%20Loca%C3%A7%C3%A3o%20Veiculos/tb_locacao.csv)
 
 ## Regras
 - Extração, Tranformação e Carga pelo Pentaho
