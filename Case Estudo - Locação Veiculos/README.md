@@ -22,4 +22,7 @@ Você, como analista de dados recebeu a missão de criar uma [POC](https://blog.
     - enviar print do fluxo no pentaho e o arquivo .ktr
     - enviar o script SQL com os insights gerados ou o PBIX do Power BI
 
+# Fonte de pesquisa
+- [Youtube] (https://www.youtube.com/watch?v=NMxI4j7g4Ps&list=PLo04OWzokNVCD5LdnGGg8ssjGmIYbTyCG)
+
 ## Bons estudos!
