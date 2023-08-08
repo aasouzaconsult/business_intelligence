@@ -17,8 +17,7 @@ Você, como analista de dados recebeu a missão de criar uma [POC](https://blog.
 - Explicação de cada insight que der, é importante!
 
 # Observações
-- Duplas
-- Enviar por e-mail até as 16:45hs! (aasouzaconsult@gmail.com)
+- Enviar por e-mail! (aasouzaconsult@gmail.com)
     - enviar print do fluxo no pentaho e o arquivo .ktr
     - enviar o script SQL com os insights gerados ou o PBIX do Power BI
 
